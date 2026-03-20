@@ -1,289 +1,38 @@
-baseURL = "https://portfoliohubs.github.io/drmehadosman/"
-languageCode = "en-us"
-title = "Dr Mehad Osman"
-defaultContentLanguage = "en"
+any data in this config file specially has name michael nabil,مايكل نبيل and all other data change to this data:
+الاسم الكامل باللغة العربية 	الاسم الكامل باللغة الإنجليزية 	المسمى الوظيفي الحالي: (مثال: طبيب امتياز، أخصائي تجميل ، اخصائى حشو عصب)  باللغة العربية	المسمى الوظيفي الحالي: (مثال: endodontist,internship)   باللغة الإنجليزية 	الجامعة : (مثال: جامعة الزقازيق)  باللغه االعربية	الجامعة : (مثال: zagazig university)  باللغه الانجليزيه	سنة التخرج : (مثال : 2025)	  مكان العمل الحالي (مثال: مستشفى جامعة الزقازيق) باللغه العربية	  مكان العمل الحالي (ex: zagazig university hospital) باللغه الانجليزية	المهارات السريرية (Clinical Skills): (يرجى كتابة المهارات مثل: جراحة، حشو عصب، إلخ) باللغه العريبه	المهارات السريرية (Clinical Skills): (gp skills -cosmetics professional) باللغه الانجليزية	المهارات الرقمية (Digital Skills): (مثل: التصوير الطبي، استخدام برامج معينة-powerpoint) باللغه العريبه	المهارات الرقمية (Digital Skills): (cadcam-powerpoint) باللغه الانجليزية	المهارات الشخصية (Soft Skills): (مثل: إدارة الوقت، التواصل مع المرضى سن الاطفال)   باللغه العريبه	المهارات الشخصية (Soft Skills): (ex pediatric patients mangement)   باللغه الانجليزيه	الخط الزمني للمسيرة (Timeline): ( يرجى كتابة السنة والحدث، مثال: فى 2020 الدخول الى الكلية -2025: التخرج من الكلية)  باللغه العربية	الخط الزمني للمسيرة (Timeline): (start faculty of dentistry 2020 - graduated 2025 )  باللغه الانجليزية	  هل حصلت على ماجستير أو دكتوراه؟  	رقم الهاتف:	رقم الواتساب (WhatsApp):	البريد الإلكتروني الاحترافي:	روابط التواصل الاجتماعي (Social Media): (رابط فيسبوك، إنستجرام، لينكد إن) ضع فواصل بين الروابط 	عنوان العيادة/المستشفى بالتفصيل/الجامعة لطلبة الجامعة:	  موقعك على خريطة جوجل  (ضع لينك الموقع من google maps ليظهر احترافيا)
+مهاد عثمان عبدالواحد	Mehad Osman	طبيب امتياز	internship	جامعه الزقازيق	Zagazig University 	2025	عيادات كليه اسنان جامعه الزقازيق	zagazig university hospital							فى 2020 الدخول الى الكلية -2025: التخرج من الكلية	 (start faculty of dentistry 2020 - graduated 2025)	لا يوجد	01142175180	01142175180	mehadosman123@gmail.com
 
-[params]
-  # Hero Section
-  [params.hero]
-    name = "Dr Mehad Osman"
-    tagline = "Internship Doctor"
-    graduation = "Graduated 2025 - Faculty of Dentistry"
-    profile_image = "https://github.com/user-attachments/assets/cd76a1d5-b7bb-4135-b397-e0921c894233"
-    profile_image_alt = "Profile photo of Dr Mehad Osman"
-    
-    [params.hero.current_position]
-      role = "Internship Doctor"
-      clinic = "zagazig university hospital"
 
-  [params.seo]
-    description = "Professional dental portfolio"
-    doctor_name_en = "Dr Mehad Osman"
-    doctor_name_ar = "دكتور مهاد عثمان"
-    site_name = "Dr Mehad Osman"
-    og_image = ""
-    favicon_image = ""
-    twitter_handle = ""
-    keywords = [
-      "dentist",
-      "dental clinic",
-      "cosmetic dentistry",
-      "restorative dentistry",
-      "Dr Mehad Osman",
-      "zagazig",
-      "DENTIST IN ZAGAZIG",
-      "DENTAL CLINIC IN ZAGAZIG",
-      "DENTAL CLINIC"
-    ]
-    keywords_ar = [
-      "طبيب أسنان",
-      "عيادة أسنان",
-      "تجميل الأسنان",
-      "ترميم الأسنان",
-      "دكتور مهاد عثمان",
-      "طبيب بالزقازيق",
-      "عيادة بالزقازيق",
-      "دكتور مهاد عثمان",
-      "عيادة مهاد عثمان",
-      "عيادة اسنان الشرقية",
-      "مهاد عثمان اسنان"
-    ]
 
-  [params.integrations]
-    google_search_console_verification = "6VtKNI5qnSYsfjCTBMfnm9PuZjjR7aYh6crmofpS8yw"
-    google_analytics_measurement_id = ""
 
-  [params.ui]
-    [params.ui.nav]
-      profile = "Profile"
-      skills = "Skills"
-      education = "Education"
-      clinical_cases = "Clinical Cases"
-      cases_short = "Cases"
-      blog = "Blog"
-      contact = "Contact"
 
-    [params.ui.skills]
-      title = "Professional Skills"
-      clinical_title = "Clinical Skills"
-      digital_title = "Digital Skills"
-      soft_title = "Soft Skills"
+ok there the links for photos put it in config file 
 
-    [params.ui.education]
-      title = "Education & Timeline"
-      graduated_label = "Graduated"
-      career_timeline_title = "Career Timeline"
-      courses_title = "Courses & Certifications"
+it the photos as this order 
+profile
+logo , og 
+cases 1-12
+this the links :
+![Image](https://github.com/user-attachments/assets/cd76a1d5-b7bb-4135-b397-e0921c894233)
 
-    [params.ui.cases]
-      title = "Clinical Cases"
-      subtitle = "Clinical Cases Gallery"
+no logo
 
-    [params.ui.blog]
-      title = "Latest Articles"
-      subtitle = "Insights and Knowledge"
-      empty_text = "No blog posts yet"
+cases 1-3:
 
-    [params.ui.contact]
-      title = "Get In Touch"
-      subtitle = "Let's connect and collaborate"
-      follow_me_title = "Follow Me"
+![Image](https://github.com/user-attachments/assets/8724feeb-249e-477d-bcaa-139100f3b65a)
+![Image](https://github.com/user-attachments/assets/9c5971cf-eff2-42ef-83d6-349c458bda30)
+![Image](https://github.com/user-attachments/assets/d5b01c72-7f26-4d32-9e42-0aa4750b9a0e)
 
-    [params.ui.labels]
-      now_working_as = "Now working as"
-      at = "at"
-      phone = "Phone"
-      whatsapp = "WhatsApp"
-      email = "Email"
-      location = "Location"
-      get_directions = "Get Directions"
-      masters_degree = "Master's Degree"
-      phd_degree = "PhD Degree"
-      rights_reserved = "All rights reserved"
 
-  # Skills Section
-  [params.skills]
-    clinical = [
-      "gp skills",
-      "cosmetics professional"
-    ]
-    
-    digital = [
-      "cadcam",
-      "powerpoint"
-    ]
-    
-    soft = [
-      "pediatric patients management"
-    ]
 
-  # Education Section
-  [params.education]
-    university = "Zagazig University"
-    graduation_year = "2025"
-    
-    [params.education.master]
-      obtained = false
-      title = ""
-      year = ""
-    
-    [params.education.phd]
-      obtained = false
-      title = ""
-      year = ""
-    
-    [[params.education.timeline]]
-      year = "2020"
-      event = "start faculty of dentistry"
-    
-    [[params.education.timeline]]
-      year = "2025"
-      event = "graduated"
-    
-    # Certificates (images will be uploaded via GitHub issues)
-    # [[params.education.certificates]]
-    #   title = "Advanced Endodontics Course"
-    #   image = "cert1.jpg"
-  # Clinical Cases Section
-  [[params.clinical_cases]]
-    enabled = true
-    category = "perio"
-    category_ar = "علاج اللثة"
-    
-    [[params.clinical_cases.cases]]
-      photo = "https://drive.google.com/open?id=1hDWUFG9ViemWOaHzA1hWTMzEQOZH6v5x"
-      alt = "Gummy smile with bone reduction"
-      description = "Gummy smile with bone reduction"
-      alt_ar = "علاج اللثة"
-      description_ar = "علاج اللثة"
 
-  [[params.clinical_cases]]
-    enabled = true
-    category = "Surgery"
-    category_ar = "خلع"
-    
-    [[params.clinical_cases.cases]]
-      photo = "https://drive.google.com/open?id=13sAXCxXS56JkRbvSg7yeZ-4KIAX5Nh0X"
-      alt = "Multiple extrication RR"
-      description = "Multiple extrication RR"
-      alt_ar = "خلع اسنان"
-      description_ar = "خلع اسنان"
 
-  [[params.clinical_cases]]
-    enabled = true
-    category = "prosthesis"
-    category_ar = "تركيبات متحركه"
-    
-    [[params.clinical_cases.cases]]
-      photo = "https://drive.google.com/open?id=1vZ3RdgccT4eEGUYP1jeT-tlJIq_lHkSc"
-      alt = "Partial Denture"
-      description = "Partial Denture"
-      alt_ar = "تركيبة متحركة"
-      description_ar = "تركيبة متحركة"
-      
-  # Contact Section
-  [params.contact]
-    phone = "01142175180"
-    whatsapp = "01142175180"
-    email = "mehadosman123@gmail.com"
-    instagram = ""
-    facebook = ""
-    linkedin = ""
-    
-    [params.contact.location]
-      enabled = true
-      address = "عيادات كليه اسنان جامعه الزقازيق"
-      latitude = "30.585070727964393"
-      longitude = "31.487296675825437"
+there the cases section data do not use the links in this message just modify the (description and alt text)English and Arabic  and there category :
+  الصورة الشخصية: (صورة رسمية مناسبة وعالية الدقة)  	  صورة الحالة الاولى	وصف الحالة الاولى باللغه العربيه	وصف الحالة الاولى باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة الثانيه	وصف الحالة الثانيه باللغه العربيه	وصف الحالة الثانيه باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة الثالثه	وصف الحالة الثالثه باللغه العربيه	وصف الحالة الثالثه باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة الرابعة	وصف الحالة الرابعة باللغه العربيه	وصف الحالة  الرابعة  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة الخامسة	وصف الحالة  الخامسة  باللغه العربيه	وصف الحالة الخامسة باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة  السادسة	وصف الحالة  السادسة  باللغه العربيه	وصف الحالة  السادسة  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة السابعة	وصف الحالة  السابعة  باللغه العربيه	وصف الحالة  السابعة  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة  الثامنة	وصف الحالة  الثامنة باللغه العربيه	وصف الحالة  الثامنة  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة  التاسعة	وصف الحالة  التاسعة  باللغه العربيه	وصف الحالة  التاسعة  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة العاشرة	وصف الحالة  العاشرة  باللغه العربيه	وصف الحالة  العاشرة  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة  الحالة ال 11	وصف الحالة  ال 11  باللغه العربيه	وصف الحالة  ال 11  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة  ال 12	وصف الحالة  ال 12  باللغه العربيه	وصف الحالة  ال 12  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....):
+https://drive.google.com/open?id=1hDWUFG9ViemWOaHzA1hWTMzEQOZH6v5x	علاج اللثة	Gummy smile with bone reduction	علاج اللثة perio	https://drive.google.com/open?id=13sAXCxXS56JkRbvSg7yeZ-4KIAX5Nh0X	خلع اسنان	Multiple extrication RR 	Surgery  خلع	https://drive.google.com/open?id=1vZ3RdgccT4eEGUYP1jeT-tlJIq_lHkSc	تركيبة متحركة	Partial Denture	prosthesis تركيبات متحركه
 
-# Arabic Translations
-[params.ar]
-  [params.ar.hero]
-    name = "دكتور مهاد عثمان"
-    tagline = "طبيب امتياز"
-    graduation = "تخرج 2025 - كلية طب الأسنان"
-    profile_image_alt = "صورة الملف الشخصي للدكتور مهاد عثمان"
-    
-    [params.ar.hero.current_position]
-      role = "طبيب امتياز"
-      clinic = "zagazig university hospital"
-  
-[params.ar.skills]
-    clinical = [
-      "gp skills -cosmetics professional"
-    ]
-    
-    digital = [
-      "cadcam-powerpoint"
-    ]
-    
-    soft = [
-      "ادارة الوقت، التواصل مع المرضى سن الاطفال"
-    ]
-    
-  
-  [params.ar.education]
-    university = "جامعه الزقازيق"
-    
-    [params.ar.education.master]
-      title = ""
-    
-    [params.ar.education.phd]
-      title = ""
-    
-    [[params.ar.education.timeline]]
-      event = "فى 2020 الدخول الى الكلية"
-    
-    [[params.ar.education.timeline]]
-      event = "2025: التخرج من الكلية"  
 
-  [params.ar.contact.location]
-    address = "عيادات كليه اسنان جامعه الزقازيق"
 
-  [params.ar.ui]
-    [params.ar.ui.nav]
-      profile = "الملف الشخصي"
-      skills = "المهارات"
-      education = "التعليم"
-      clinical_cases = "الحالات السريرية"
-      cases_short = "الحالات"
-      blog = "المدونة"
-      contact = "التواصل"
+do this changes step by step accuratly and double check that there is no michael nabil or مايكل نبيل
 
-    [params.ar.ui.skills]
-      title = "المهارات المهنية"
-      clinical_title = "المهارات السريرية"
-      digital_title = "المهارات الرقمية"
-      soft_title = "المهارات الشخصية"
-
-    [params.ar.ui.education]
-      title = "التعليم والخط الزمني"
-      graduated_label = "تخرج"
-      career_timeline_title = "الخط الزمني المهني"
-      courses_title = "الدورات والشهادات"
-
-    [params.ar.ui.cases]
-      title = "الحالات السريرية"
-      subtitle = "معرض الحالات السريرية"
-
-    [params.ar.ui.blog]
-      title = "أحدث المقالات"
-      subtitle = "رؤى ومعرفة"
-      empty_text = "لا توجد مقالات بعد. أضف أول مقال في config.toml"
-
-    [params.ar.ui.contact]
-      title = "تواصل معي"
-      subtitle = "لنتواصل ونتعاون"
-      follow_me_title = "تابعني"
-
-    [params.ar.ui.labels]
-      now_working_as = "أعمل حالياً ك"
-      at = "في"
-      phone = "الهاتف"
-      whatsapp = "واتساب"
-      email = "البريد"
-      location = "الموقع"
-      get_directions = "احصل على الاتجاهات"
-      masters_degree = "درجة الماجستير"
-      phd_degree = "درجة الدكتوراه"
-      rights_reserved = "جميع الحقوق محفوظة"
+finally check no repeated cases category name
