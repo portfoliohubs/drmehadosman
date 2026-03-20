@@ -184,7 +184,7 @@ defaultContentLanguage = "en"
   # Contact Section
   [params.contact]
     phone = "01142175180"
-    whatsapp = "01142175180"
+    whatsapp = "+201142175180"
     email = "mehadosman123@gmail.com"
     instagram = ""
     facebook = ""
